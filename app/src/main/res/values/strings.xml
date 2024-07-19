@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calander Events</string>
+    <string name="txt_event_title">Event Title</string>
+    <string name="txt_event_description">Event Description</string>
+    <string name="txt_add_event">Add Event</string>
+    <string name="txt_event_name">Event Name : _________________</string>
+    <string name="txt_event_desc">Event Desc : ________________</string>
+    <string name="txt_date">Date : _________________</string>
+    <string name="txt_time">Time: _______________</string>
+    <string name="txt_type">Type : _______________</string>
+    <string name="txt_btn_edit">Edit</string>
+    <string name="txt_btn_delete">Delete</string>
+    <string name="txt_title">Event Name : Goa Trip</string>
+    <string name="title_time">Time : 2:00 PM</string>
+
+    <string-array name="event_list">
+        <item>All</item>
+        <item>Festival</item>
+        <item>Birthday</item>
+        <item>Anniversary</item>
+        <item>Trip</item>
+        <item>Party</item>
+        <item>Sport Event</item>
+    </string-array>
+</resources>
